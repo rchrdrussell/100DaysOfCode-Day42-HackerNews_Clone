@@ -1,5 +1,3 @@
-This is a small Hacker News clone project made using React and Redux. I plan to make a bigger, production-like project that involves an actual Hacker News client (without using too much tutorial).
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
