@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#Don't include Swap files and Undo files
+*~
+*un~
+
